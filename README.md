@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-02&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-02" /> </p>
+
+<img  align="center" src="https://img.freepik.com/premium-vector/programmer-working-program-web-developer-coding-computer-screen-with-code-script-open-windows-coder-engineer-vector-concept-illustration-development-programmer-programming-coding_102902-3910.jpg?w=1060" alt="Happy programmer" height="500" width="100%">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-02" alt="rishav-02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rishavr78127311" target="blank"><img src="https://img.shields.io/twitter/follow/rishavr78127311?logo=twitter&style=for-the-badge" alt="rishavr78127311" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **YouTube Clone**
 
-- 🌱 I’m currently learning **MongoDB,SQL**
+- 🌱 I’m currently learning **React.js,SQL**
+ 
+- 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **JavaScript,Node.js**
+- 🤝 I’m looking for **Valuable Guidance**
+
+- 💬 Ask me about **HTML,CSS,JavaScript,Node.js**
 
 - 📫 How to reach me **rishavsinha380@gmail.com**
 
