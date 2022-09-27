@@ -63,7 +63,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-02&show_icons=true&locale=en" alt="rishav-02" /></p>
 
-<a href="https://github.com/rishav-02/github-readme-activity-graph"><img alt="Rishav Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rishav-02&bg_color=0D1117&color=5BCDEC&line=ADFF2F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rishav-02/github-readme-activity-graph"><img alt="Rishav Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rishav-02&bg_color=fff8dc&color=5BCDEC&line=ADFF2F&point=FFFFFF&hide_border=true" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-02&" alt="rishav-02" /></p>
 
