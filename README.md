@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **rishavsinha380@gmail.com**
 
-- ⚡ Fun fact **I eager to learn new things**
+- ⚡ Fun fact **I like traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
