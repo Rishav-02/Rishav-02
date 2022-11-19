@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for **Valuable Guidance**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Node.js**
+- 💬 Ask me about **HTML,CSS,JavaScript,Node.js,SQL**
 
 - 📫 How to reach me **rishavsinha380@gmail.com**
 
