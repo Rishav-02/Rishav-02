@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React.js,SQL,DBMS**
+- 🌱 I’m currently learning **React.js,SQL,DBMS,MYSQL**
  
 - 👯 I’m looking to collaborate on **Projects**
 
