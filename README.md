@@ -31,8 +31,8 @@
 <a href="https://www.hackerrank.com/rishavsinha380" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@rishavsinha380" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017070316197" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="rishav sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/rishav_834sinha" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="rishav_834sinha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19427713/rishav-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishav raj" height="30" width="40" /></a>
-<a href="https://medium.com/@rishavsinha380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishavsinha380" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19427713/rishav-raj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="rishav raj" height="30" width="40" /></a>
+<a href="https://medium.com/@rishavsinha380" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" alt="@rishavsinha380" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rishavsinha380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishavsinha380" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/rDEXTr3N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rDEXTr3N" height="30" width="40" /></a>
 </p>
