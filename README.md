@@ -28,7 +28,7 @@
 
 <a href="https://www.linkedin.com/in/rishav-raj-88859118a/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="rishav raj" height="30" width="40" /></a>
 <a href="https://twitter.com/rishavr78127311" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="rishavr78127311" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishavsinha380" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="@rishavsinha380" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/rishavsinha380" target="blank"><img align="center" src="https://www.facebook.com/hackerrank/photos/a.443702455650003/4290480637638813/" alt="@rishavsinha380" height="50" width="60" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017070316197" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="rishav sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/rishav_834sinha" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="rishav_834sinha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19427713/rishav-raj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="rishav raj" height="50" width="60" /></a>
