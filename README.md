@@ -11,22 +11,22 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React.js,SQL,DBMS,MYSQL**
+- 🌱 I’m currently learning **React,SQL,DBMS,MYSQL**
  
 - 👯 I’m looking to collaborate on **Projects**
 
 - 🤝 I’m looking for **Valuable Guidance**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Node.js,SQL**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js,SQL**
 
 - 📫 How to reach me **rishavsinha380@gmail.com**
 
-- ⚡ Fun fact **I Love traveling**
+- ⚡ Fun fact **I ❤️ traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rishav-raj-88859118a/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="rishav raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishavraj02/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="rishav raj" height="30" width="40" /></a>
 <a href="https://twitter.com/rishavr78127311" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="rishavr78127311" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rishavsinha380" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@rishavsinha380" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017070316197" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="rishav sinha" height="30" width="40" /></a>
