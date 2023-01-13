@@ -63,9 +63,15 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav-02&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="rishav-02" /></p>
+<!-- Problem in host api that's why I change the Api -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav-02&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="rishav-02" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-02&show_icons=true&theme=gruvbox&locale=en" alt="rishav-02" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-02&show_icons=true&theme=gruvbox&locale=en" alt="rishav-02" /></p> -->
+
+
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rishav-02&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="rishav-02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishav-02&show_icons=true&theme=gruvbox&locale=en" alt="rishav-02" /></p>
 
 <a href="https://github.com/rishav-02/github-readme-activity-graph"><img alt="Rishav Raj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rishav-02&bg_color=fff8dc&color=5bcdec&line=33ff33&point=ffa500&hide_border=true" /></a>
 
