@@ -19,9 +19,11 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js,SQL**
 
+- ✍🏻 You can checkout my **Blogs** [here](https://medium.com/@rishavsinha380)
+
 - 📫 How to reach me **rishavsinha380@gmail.com**
 
-- ⚡ Fun fact **I ❤️ traveling**
+- ⚡ Fun fact **I ❤️ traveling but I do not go anywhere 😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
