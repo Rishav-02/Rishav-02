@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-02&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-02&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-02" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Rishav-02?style=social">
 
 <img  align="center" src="https://img.freepik.com/premium-vector/programmer-working-program-web-developer-coding-computer-screen-with-code-script-open-windows-coder-engineer-vector-concept-illustration-development-programmer-programming-coding_102902-3910.jpg?w=1060" alt="Happy programmer" height="500" width="100%">
 
